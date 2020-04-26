@@ -167,8 +167,8 @@ ul {
     padding: 8px 40px;
     transition: all .5s ease;
 }
-.navbar .navbar-brand h2 {
-    font-weight: 900;
+.navbar .navbar-brand h3 {
+    font-weight: 800;
     background: -webkit-linear-gradient(right, #d61a5e, #ff8c05);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
@@ -203,20 +203,20 @@ ul {
     transform: translateY(-50%);
 }
 .home-intro .intro-content .intro-caption span {
-    font-size: 26px;
+    font-size: 20px;
     font-weight: 300;
     display: inline-block;
-    margin-bottom: 30px;
+    margin-bottom: 10px;
     letter-spacing: 1px;
     text-transform: uppercase;
 }
-.home-intro .intro-content .intro-caption h2 {
-    font-size: 70px;
-    font-weight: 900;
+.home-intro .intro-content .intro-caption h4 {
+    font-size: 30px;
+    font-weight: 700;
     background: -webkit-linear-gradient(right, #d61a5e, #ff8c05);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
-    line-height: 87px;
+    line-height: 60px;
 }
 .home-intro .intro-content .intro-image {
     filter: drop-shadow(-3px 17px 8px rgba(0, 0, 0, 0.3));
